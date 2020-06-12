@@ -1,8 +1,13 @@
-SHA = 3D-FE-37-2D-E5-AB-C2-50-C0-98-DF-D1-CF-91-73-47-25-89-04-81-D2-88-81-29-74-81-41-71-4D-85-01-D5
+SHA = AF-22-82-D1-1B-EE-99-30-B6-2B-DF-02-DB-8B-3F-CC-4B-FB-B3-0D-0F-25-F8-EF-DA-92-6B-6E-76-2D-69-73
 version = 4.1.3.0
 KSPVersion = 1.9.1.2788
 FilesSHA
 {
+	FILE
+	{
+		filename = 999_KSP-Recall/patches/resourceful.cfg
+		SHA = B2-65-2D-21-E9-3C-D0-E1-A8-9D-5D-3C-6A-3C-03-3B-3C-29-8C-77-3B-EE-5C-67-AA-36-1E-FA-15-52-3B-E8
+	}
 	FILE
 	{
 		filename = AirplanePlus/Agencies/Agents.cfg
@@ -9532,11 +9537,6 @@ FilesSHA
 	{
 		filename = TweakScale/patches/NF/NFSC_TweakScale.cfg
 		SHA = 9F-77-2A-48-60-C4-92-86-8A-C4-55-D8-1F-C2-4E-28-F2-63-64-10-7D-AC-3A-11-06-68-72-0A-34-CC-A4-78
-	}
-	FILE
-	{
-		filename = TweakScale/patches/NF/NFS_TweakScale.cfg
-		SHA = 31-D2-82-65-74-1E-05-AD-C7-25-76-8D-92-EC-84-D1-7B-36-BD-6F-F1-F0-01-7C-62-D8-33-FF-79-A2-69-CE
 	}
 	FILE
 	{
