@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+
+<ButtonTooltips xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SettingsIcon>Настройки</SettingsIcon>
+  <ServerIcon>Сервера</ServerIcon>
+  <ConnectIcon>Подключиться</ConnectIcon>
+  <DisconnectIcon>Отключиться</DisconnectIcon>
+  <SyncIcon>Синх.</SyncIcon>
+  <RefreshIcon>Обновить</RefreshIcon>
+  <UploadIcon>Загрузить</UploadIcon>
+  <DeleteIcon>Удалить</DeleteIcon>
+  <PlusIcon>Добавить</PlusIcon>
+  <SaveIcon>Сохранить</SaveIcon>
+  <KeyIcon>Пароль</KeyIcon>
+  <GlobeIcon>Страна</GlobeIcon>
+  <ChatIcon>Чат</ChatIcon>
+  <CameraIcon>Скриншоты</CameraIcon>
+  <RocketIcon>Корабли</RocketIcon>
+  <AdminIcon>Администрирование</AdminIcon>
+  <KickIcon>Выгнать</KickIcon>
+  <BanIcon>Заблокировать</BanIcon>
+  <DekesslerIcon>Удалить мусор</DekesslerIcon>
+  <NukeIcon>Очистить KSC</NukeIcon>
+  <RestartServerIcon>Перезапустить сервер</RestartServerIcon>
+  <DownloadIcon>Скачать</DownloadIcon>
+  <CycleFirstIcon>Первый</CycleFirstIcon>
+  <CyclePreviousIcon>Предыдущий</CyclePreviousIcon>
+  <CycleNextIcon>Следующий</CycleNextIcon>
+  <CycleLastIcon>Последний</CycleLastIcon>
+</ButtonTooltips>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+
+<ScreenText xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CraftUploaded>Fahrzeug hochgeladen!</CraftUploaded>
+  <CraftSaved>Fahrzeug gespeichert!</CraftSaved>
+  <ModFileGenerated>LMPModControl.xml Datei wurde in deinem KSP Ordner generiert</ModFileGenerated>
+  <Disconected>Deine Verbindung wurde getrennt!</Disconected>
+  <Spectating>Dieses Fahrzeug wird kontrolliert von</Spectating>
+  <SafetyBubble>Achtung!! Während du dich in der Sicherheitsblase befindest kannst du von anderen Spielern nicht gesehen werden!!</SafetyBubble>
+  <CannotRecover>Zurücksetzen des Fahrzeugs nicht möglich, das Fahrzeug gehört dir nicht.</CannotRecover>
+  <CannotTerminate>Löschen des Fahrzeugs nicht möglich, das Fahrzeug gehört dir nicht.</CannotTerminate>
+  <SpectatingRemoved>Das beobachtete Fahrzeug wurde gelöscht</SpectatingRemoved>
+  <WarpDisabled>Zeitraffer nicht möglich, Zeitraffer ist auf diesem Server deaktiviert</WarpDisabled>
+  <WaitingSubspace>Zeitraffer nicht möglich, warte auf Sub-Universum-ID vom Server</WaitingSubspace>
+  <CannotWarpWhileSpectating>Zeitraffer ist während des Beobachtens nicht möglich</CannotWarpWhileSpectating>
+  <ScreenshotInterval>Mindestzeitabstand zwischen den Screenshots beträgt $1 Sekunden. Screenshot kann momentan nicht hochgeladen werden</ScreenshotInterval>
+  <CraftLibraryInterval>Das Interval zwischen den Bibliotheksabfragen beträgt $1 Sekunde(n). Abfrage kann momentan nicht durchgeführt werden</CraftLibraryInterval>
+  <ScreenshotTaken>Screenshot wurde hochgeladen!</ScreenshotTaken>
+  <ImageSaved>Bild wurde gespeichert unter GameData/LunaMultiplayer/Screenshots</ImageSaved>
+  <IncreasedInterpolationOffset>Achtung! Dein Interpolations-Versatz wurde erhöht, weil es zu niedrig für den Server war</IncreasedInterpolationOffset>
+  <SackingKerbalsNotAllowed>Auf diesem Server ist das Feuern von Kerbals nicht erlaubt</SackingKerbalsNotAllowed>
+  <CannotLoadGames>LMP erlaubt nicht das Laden von Spielständen</CannotLoadGames>
+  <KerbalNotYours>Ein anderer Spieler kontrolliert diesen Kerbal</KerbalNotYours>
+  <UnsafeToSync>Synchronisieren ist während eines instabilen Orbits nicht möglich, weil es zu einem Absturz führen kann! Diese Einstellung kann in den Optionen deaktiviert werden</UnsafeToSync>
+</ScreenText>
